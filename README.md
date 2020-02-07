@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sunshine blog
 
 You can use the [editor on GitHub](https://github.com/198Sunshine/198Sunshine.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
